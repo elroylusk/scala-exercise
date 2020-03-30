@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PalindromeNumberTest, org.scalatest.tools.Framework$$anon$1@66ff4c32, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TwoSumTest, org.scalatest.tools.Framework$$anon$1@66ff4c32, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReverseIntegerTest, org.scalatest.tools.Framework$$anon$1@66ff4c32, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(RomanToIntegerTest, org.scalatest.tools.Framework$$anon$1@66ff4c32, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 428 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TwoSumTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PalindromeNumberTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReverseIntegerTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	RomanToIntegerTest[0m
