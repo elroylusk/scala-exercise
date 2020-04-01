@@ -1,7 +1,7 @@
 import org.scalatest._
 
 class LongestCommonPrefixTest extends FlatSpec with Matchers {
-  "LongestCommonPrefix" should "let 'fl' from ['flower','flow','flight']" in {
+  "LongestCommonPrefix" should "let \"fl\" from [\"flower\",\"flow\",\"flight\"]" in {
     LongestCommonPrefix.longestCommonPrefix(Array("flower","flow","flight")) should be ("fl")
   }
 
