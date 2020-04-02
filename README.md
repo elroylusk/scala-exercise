@@ -1,1 +1,1 @@
-# leetcode-scala
+# scala-exercise
